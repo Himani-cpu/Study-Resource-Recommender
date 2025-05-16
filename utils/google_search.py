@@ -1,7 +1,7 @@
 import requests
 
-GOOGLE_API_KEY = "AIzaSyCzvP0AuB_8azPDDVi7ZByTG_W4148KtqI"   # Replace with your actual API key
-GOOGLE_CSE_ID = "b0748ed3da4734de9"     # Replace with your actual Custom Search Engine ID
+GOOGLE_API_KEY = "GOOGLE_API_KEY"   # Replace with your actual API key
+GOOGLE_CSE_ID = "GOOGLE_CSE_ID"     # Replace with your actual Custom Search Engine ID
 
 def google_search(query, max_results=10):
     search_url = "https://www.googleapis.com/customsearch/v1"
