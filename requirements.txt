@@ -1,3 +1,5 @@
-streamlit==1.24.1
-requests==2.31.0
-pandas==2.0.3
+streamlit==1.34.0
+pandas
+numpy
+requests
+google-api-python-client
