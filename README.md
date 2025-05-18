@@ -50,7 +50,7 @@ Download Recommendations: Export your recommended resources for offline use.
 
 **Clone the repository:**
 bash
-git clone https://github.com/yourusername/study-resource-recommender.git
+git clone https://github.com/Himani-cpu/Study-Resource-Recommender.git
 cd study-resource-recommender
 
 **Install required packages:**
